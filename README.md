@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java & Full Stack**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯‍♂️ I’m looking to collaborate on **Web Development**
 
 - 📫 How to reach me **a.s.vigneshraja@gmail.com**
 
