@@ -22,7 +22,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUX8Zl1APi0f2wjMZo5lKGUAK-4BhznaPMQ&usqp=CAU" alt="java" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/nodejs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodeJs" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-s-vignesh-raja&show_icons=true&locale=en&layout=compact" alt="a-s-vignesh-raja" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-s-vignesh-raja&show_icons=true&locale=en&layout=compact" alt="a-s-vignesh-raja" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-s-vignesh-raja&show_icons=true&locale=en" alt="a-s-vignesh-raja" /></p>
 
