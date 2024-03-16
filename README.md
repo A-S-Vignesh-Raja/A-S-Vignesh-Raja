@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯‍♂️ I’m looking to collaborate on **Web Development**
+- 👯‍♂️ I’m looking to collaborate on **Web Development and Java**
 
 - 📫 How to reach me **a.s.vigneshraja@gmail.com**
 
