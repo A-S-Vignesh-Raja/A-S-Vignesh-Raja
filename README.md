@@ -24,6 +24,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
+
   <a href="https://www.w3schools.com/nodejs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodeJs" width="40" height="40"/> </a>  
   <a href="https://www.w3schools.com/nodejs/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.png" alt="ExpressJs" width="40" height="40"/> </a>  
   <a href="https://www.w3schools.com/REACT/DEFAULT.ASP" target="_blank" rel="noreferrer"> <img src="https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png" alt="react" width="50" height="40"/> </a>
