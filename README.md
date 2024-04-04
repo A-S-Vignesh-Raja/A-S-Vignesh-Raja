@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack & Java**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Spring**
 
 - 👯‍♂️ I’m looking to collaborate on **Web Development and Java**
 
